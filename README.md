@@ -13,7 +13,7 @@ let array = parseList(items)
 // [ 'apples', 'oranges', 'bananas', 'grapes', 'pineapples' ]
 ```
 
-### customize sepearator
+### customize separator
 
 ```javascript
 let items = "black\nblue\ngreen\nwhite\npurple"
